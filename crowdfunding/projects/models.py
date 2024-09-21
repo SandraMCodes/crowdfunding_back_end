@@ -8,4 +8,6 @@ class Project(models.Model):
    is_open = models.BooleanField()
    date_created = models.DateTimeField(auto_now_add=True)
 
-   
+class Pledge(models.Model):
+   amount = models.IntegerField()
+   comment = models.CharField(max_length=200)
