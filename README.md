@@ -1,14 +1,14 @@
 # crowdfunding_back_end
 Crowdfunding project
 # Crowdfunding Back End
-{{ your name here }}
+{{ Sandra Martin }}
 
 ## Planning:
 ### Concept/Name
-{{ Include a short description of your website concept here. }}
+{{ Raising funds for a dog shelter called Pawsome Rescue Fund, a goal of $200k is set for building a new set of kennels for the overflowing rescue shelter }}
 
 ### Intended Audience/User Stories
-{{ Who are your intended audience? How will they use the website? }}
+{{ The general public are encouraged to donate, especially those who visit the shelter and those on the mailing list for the shelter }}
 
 ### Front End Pages/Functionality
 - {{ A page on the front end }}
