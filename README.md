@@ -3,6 +3,8 @@ Crowdfunding project
 # Crowdfunding Back End
 {{ Sandra Martin }}
 
+![Logo](<pawsome rescue fund.png>)
+
 ## Planning:
 ### Concept/Name
 {{ Raising funds for a dog shelter called Pawsome Rescue Fund, a goal of $200k is set for building a new set of kennels for the overflowing rescue shelter }}
