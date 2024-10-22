@@ -1,16 +1,21 @@
 # crowdfunding_back_end
 Crowdfunding project
 # Crowdfunding Back End
-{{ Sandra Martin }}
+Sandra Martin 
 
 ![Logo](<pawsome rescue fund.png>)
 
 ## Planning:
 ### Concept/Name
-{{ Raising funds for a dog shelter called Pawsome Rescue Fund, a goal of $200k is set for building a new set of kennels for the overflowing rescue shelter }}
+Raising funds for a dog shelter called Pawsome Rescue Fund, a goal of $200k is set for building a new set of kennels for the overflowing rescue shelter
+![New proposed home](<Shelted dog in new home.jpg>)
+
 
 ### Intended Audience/User Stories
-{{ The general public are encouraged to donate, especially those who visit the shelter and those on the mailing list for the shelter }}
+The general public are encouraged to donate, especially those who visit the shelter and those on the mailing list for the shelter 
+
+![Shelter Dog](<shelter dog behind bars.jpg>)
+
 
 ### Front End Pages/Functionality
 - {{ A page on the front end }}
