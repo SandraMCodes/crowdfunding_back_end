@@ -3,6 +3,7 @@ Crowdfunding project
 # Crowdfunding Back End
 Sandra Martin 
 
+
 ![Logo](<pawsome rescue fund.png>)
 
 ## Planning:
@@ -37,5 +38,29 @@ It can be helpful to keep the markdown preview open in VS Code so that you can s
 | --- | ----------- | ------- | ------- | ------------ | --------------------- | ---------------------------- |
 |     |             |         |         |              |                       |                              |
 
+
+
+
 ### DB Schema
 ![]( {{ ./relative/path/to/your/schema/image.png }} )
+
+ A link to the deployed project.
+
+https://pawsome-rescue-fund-1a43b7debf1f.herokuapp.com/users/
+
+ A screenshot of Insomnia, demonstrating a successful GET method for any endpoint.
+
+ ![alt text](<Deployed Project GET.jpg>) 
+
+
+ A screenshot of Insomnia, demonstrating a successful POST method for any endpoint.
+
+ ![alt text](<Deployed Project POST.jpg>)
+
+ A screenshot of Insomnia, demonstrating a token being returned.
+
+ ![alt text](<Deployed Token.jpg>)
+
+Step by step instructions for how to register a new user and create a new project (i.e. endpoints and body data).
+
+Your refined API specification and Database Schema.
