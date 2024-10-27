@@ -40,4 +40,4 @@ Your refined API specification and Database Schema:
 
 ![alt text](<fund schema.jpg>)
 
-#Step by step instructions for how to register a new user and create a new project (i.e. endpoints and body data):
+
