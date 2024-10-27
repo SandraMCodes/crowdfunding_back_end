@@ -1,7 +1,7 @@
 # crowdfunding_back_end
 Crowdfunding project
 # Crowdfunding Back End
-Sandra Martin 
+Sandra Martin - Pawsome Rescue Fund
 
 
 ![Logo](<pawsome rescue fund.png>)
@@ -18,49 +18,26 @@ The general public are encouraged to donate, especially those who visit the shel
 ![Shelter Dog](<shelter dog behind bars.jpg>)
 
 
-### Front End Pages/Functionality
-- {{ A page on the front end }}
-    - {{ A list of dot-points showing functionality is available on this page }}
-    - {{ etc }}
-    - {{ etc }}
-- {{ A second page available on the front end }}
-    - {{ Another list of dot-points showing functionality }}
-    - {{ etc }}
-
-### API Spec
-{{ Fill out the table below to define your endpoints. An example of what this might look like is shown at the bottom of the page. 
-
-It might look messy here in the PDF, but once it's rendered it looks very neat! 
-
-It can be helpful to keep the markdown preview open in VS Code so that you can see what you're typing more easily. }}
-
-| URL | HTTP Method | Purpose | Purpose | Request Body | Success Response Code | Authentication/Authorisation |
-| --- | ----------- | ------- | ------- | ------------ | --------------------- | ---------------------------- |
-|     |             |         |         |              |                       |                              |
-
-
-
-
-### DB Schema
-![]( {{ ./relative/path/to/your/schema/image.png }} )
-
- A link to the deployed project.
+ A link to the deployed project:
 
 https://pawsome-rescue-fund-1a43b7debf1f.herokuapp.com/users/
 
- A screenshot of Insomnia, demonstrating a successful GET method for any endpoint.
+ A screenshot of Insomnia, demonstrating a successful GET method for any endpoint:
 
  ![alt text](<Deployed Project GET.jpg>) 
 
-
- A screenshot of Insomnia, demonstrating a successful POST method for any endpoint.
+ A screenshot of Insomnia, demonstrating a successful POST method for any endpoint:
 
  ![alt text](<Deployed Project POST.jpg>)
 
- A screenshot of Insomnia, demonstrating a token being returned.
+ A screenshot of Insomnia, demonstrating a token being returned:
 
  ![alt text](<Deployed Token.jpg>)
 
-Step by step instructions for how to register a new user and create a new project (i.e. endpoints and body data).
+Your refined API specification and Database Schema:
 
-Your refined API specification and Database Schema.
+![alt text](<API Spec.jpg>)
+
+![alt text](<fund schema.jpg>)
+
+#Step by step instructions for how to register a new user and create a new project (i.e. endpoints and body data):
